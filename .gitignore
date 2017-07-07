@@ -17,6 +17,14 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# R environment
+*.RDA
+*.Rproj
+*.Rhistory
+
+# Clients tables
+*.csv
+
 # =========================
 # Operating System Files
 # =========================
@@ -45,3 +53,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.Rproj.user
